@@ -1,0 +1,25 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  line-height: 1.6;
+  font-family: sans-serif;
+}
+
+button{
+  font-weight: bold;
+  margin: 20px;
+  padding: 5px;
+}
+
+.datos{
+  background-color: #bfff00;
+  padding: 5px;
+  margin: 5px;
+  display: inline-block;
+  border: 1px solid #000000;
+}
+.nombre{
+  background-color: #00bfff;
+}
